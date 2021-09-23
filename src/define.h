@@ -1,0 +1,8 @@
+#pragma once
+
+enum class PROCESS_RESULT {
+	PROCESS_SUCCESS,
+	ERROR_OCCURRED,
+	LOAD_SETTINGFILE_ERROR,
+	NUM,
+};
